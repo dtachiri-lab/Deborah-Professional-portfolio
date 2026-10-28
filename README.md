@@ -8,10 +8,10 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!   
+This is my public portfolio for Telling Stories with Data at CMU! This is a combination of assignments and a project about turning data into communicable information.  
 
 # About me
-My name is Deborah and I have a master's in public policy from Carnegie Mellon University and a bachelor's in criminal justice from the University of Texas at Arlington. 
+My name is Deborah and I have a master's in public policy from Carnegie Mellon University and a bachelor's in criminal justice from the University of Texas at Arlington. I aspire to influence and contribute to senior health policy. I want to improve the lives of the elderly financially, socially, and medically. I am ecstatic to implement skills learned in Telling Stories with Data in my future career field. 
 
 # What I hope to learn 
 
