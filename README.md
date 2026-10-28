@@ -24,13 +24,16 @@ My name is Deborah and I have a master's in public policy from Carnegie Mellon U
 # Examples
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+[link to a new page, Markdown document called `visualizing-government-debt.md`]. TO BE ADDED 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+[link to page to be added. Markdown document called `critique-by-design.md`].  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+The final project will be about the elderly population. A demographic and geographic understanding of projected need of this population will be the focus. The aspiration is to create a map that clearly delineates to decision makers, specifically policy makers, where need is highest and where to attribute resources. 
+
+Links to be added. 
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
@@ -38,8 +41,8 @@ Part III(final-project-part-three)
 
 
 ## References
-_List any references you used here._
+Sources were not utilized
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI was not utilized to create this
 
