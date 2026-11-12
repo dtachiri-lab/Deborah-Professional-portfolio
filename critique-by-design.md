@@ -11,7 +11,17 @@ _Original Visualization
 [Data Source:](https://www.opensecrets.org/profiles?category=us_congress&view=members_119) https://www.opensecrets.org/profiles?category=us_congress&view=members_119_
 
 ## Step two: Critique of the Visualization
-_ Usefulness: 8 The table is simple and this simplicity makes it easy to understand and useful in protraying the information necessary. 
+_ 
+The Stephen Few Critique Model was utilized. 
+
+Overview of Visual 
+The use of red and blue for republican and democrat stood out. What is great is that the visualization portrays information simply. What did not work is that it did not appeal the audience effectively. While there is nothing wrong with simple graphs, the main concern is engagement and appeal, as well as if the audience is inspired to act or share about the visual. The overload of information and lacked focus makes it difficult for the audience to have actionable and inspirational information. 
+
+Audience
+The primary audience for this tool seems to be the general American public, with the goal of improving honesty in fincnaces and democracy. This visual is effective in communicating information the audience in that there is a search bar to search for a representative by name. The visual is not engaging, so the effectiveness of this reach is in question.  Additionally, the table also has alot of information and does not provide actionable information. Additionally, one cannot search by state or party so readers have additional cognitive load of knowing the namme of their representative versus searching by state. This is important because representatives change over time. 
+
+Stephen Few Critique Model
+Usefulness: 8 The table is simple and this simplicity makes it easy to understand and useful in protraying the information necessary. 
 Completeness: 8 The format of the table provides enough information without overload. The information is valuable, however, the intended audience may feel confused about the actionablility of the information.  
 Perceptibility: 9 The simplicity of the table makes it so the reader can understand the information with no cognitive strain and the visualization is appropriate for the information it is trying to protray. 
 Truthfulness: 9 The table displays the information in a complete and truthful manner. Intuitiveness: 6 The information is simply displayed on the table, however, if someone is unfamiliar with  to understand in the table. However, the concepts of raised money, spent, cash on hand, or debts in this context, they will be confused. Simple definitions for each word would improve intuitiveness ranking.  
@@ -20,8 +30,7 @@ Engagement: 5 The table is not that engaging. While it protrays the information 
 
 ## Step three: Pre Feedback Redesign
 _ <img width="947" height="494" alt="image" src="https://github.com/user-attachments/assets/81aa95b3-2e32-416d-b066-a52132939d56" />
-
-._
+Tableau was utilized to create this visual: https://public.tableau.com/app/profile/deborah.tachiri/viz/CongressFinancials/Sheet1?publish=yes._
 ## Step four: Testing the solution through a group Interview
 
 _Conversations requiring feedback about my redesign were important in providing guidance for the direction of the design. A question of focus was what should be changed. What is right about the design. _
