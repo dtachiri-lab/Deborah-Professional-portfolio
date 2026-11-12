@@ -26,8 +26,8 @@ My name is Deborah and I have a master's in public policy from Carnegie Mellon U
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 [link to a new page, Markdown document called `visualizing-government-debt.md`]. TO BE ADDED 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-[link to page to be added. Markdown document called `critique-by-design.md`].  
+## Assignment 3&4: [Critique by Design] 
+https://github.com/dtachiri-lab/Deborah-Professional-portfolio/blob/main/critique-by-design.md
 
 ## Final project
 The final project will be about the elderly population. A demographic and geographic understanding of projected need of this population will be the focus. The aspiration is to create a map that clearly delineates to decision makers, specifically policy makers, where need is highest and where to attribute resources. 
