@@ -10,6 +10,8 @@ _Original Visualization
 <img width="986" height="533" alt="image" src="https://github.com/user-attachments/assets/50b8a97f-ba5c-4af5-9c25-2b996aa0ba33" />
 [Data Source:](https://www.opensecrets.org/profiles?category=us_congress&view=members_119) https://www.opensecrets.org/profiles?category=us_congress&view=members_119_
 
+Why this was chosen
+
 ## Step two: Critique of the Visualization
 _ 
 The Stephen Few Critique Model was utilized. 
