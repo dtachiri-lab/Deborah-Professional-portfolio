@@ -2,7 +2,7 @@
 
 # Summary of Makeover Monday Redesign
 
-_insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+_Q insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
 ## Step one: the visualization
 
@@ -10,7 +10,7 @@ _Original Visualization
 <img width="986" height="533" alt="image" src="https://github.com/user-attachments/assets/50b8a97f-ba5c-4af5-9c25-2b996aa0ba33" />
 [Data Source:](https://www.opensecrets.org/profiles?category=us_congress&view=members_119) https://www.opensecrets.org/profiles?category=us_congress&view=members_119_
 
-Why this was chosen
+Why this was chosen Q
 
 ## Step two: Critique of the Visualization
 _ 
@@ -44,11 +44,11 @@ Tableau was utilized to create this visual: https://public.tableau.com/app/profi
 - Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
-- Focus on their focus areas
+- Focus on their focus areas Q
 _Conversations requiring feedback about my redesign were important in providing guidance for the direction of the design. A question of focus was how can this visual be improved to make the message efficient and engaging. Limiting of data or focusing on specific data points for emphasis was reccommended. A clear message title was recommended so readers for understandability. A focus on top ten highest or lowest spenders was also recommended for the sake of actionability. The plan is to focus on highest spending members, create a message title, utilize a bar plot._
 
 ## Step five: build the solution
-
+Q any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 _
 
 Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall._
