@@ -33,13 +33,23 @@ _ <img width="947" height="494" alt="image" src="https://github.com/user-attachm
 Tableau was utilized to create this visual: https://public.tableau.com/app/profile/deborah.tachiri/viz/CongressFinancials/Sheet1?publish=yes._
 ## Step four: Testing the solution through a group Interview
 
-_Conversations requiring feedback about my redesign were important in providing guidance for the direction of the design. A question of focus was what should be changed. What is right about the design. _
+ Can you tell me what you think this is?
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+- Can you describe to me what this is telling you?
+
+- Is there anything you find surprising or confusing?
+
+- Who do you think is the intended audience for this?
+
+- Is there anything you would change or do differently?
+- Focus on their focus areas
+_Conversations requiring feedback about my redesign were important in providing guidance for the direction of the design. A question of focus was how can this visual be improved to make the message efficient and engaging. Limiting of data or focusing on specific data points for emphasis was reccommended. A clear message title was recommended so readers for understandability. A focus on top ten highest or lowest spenders was also recommended for the sake of actionability. The plan is to focus on highest spending members, create a message title, utilize a bar plot._
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+_
+
+Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall._
 
 ## References
 _https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf 
