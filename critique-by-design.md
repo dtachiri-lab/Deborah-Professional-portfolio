@@ -1,16 +1,12 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Summary of Makeover Monday Redesign
-
-_Q insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
 ## Step one: the visualization
+This example consists of choosing a established visualization from the Makeover Monday website and redesigning for clarity. This table was chosen because although it is easy to understand, the lack of actionable information was a challenge.
 
 _Original Visualization
 <img width="986" height="533" alt="image" src="https://github.com/user-attachments/assets/50b8a97f-ba5c-4af5-9c25-2b996aa0ba33" />
 [Data Source:](https://www.opensecrets.org/profiles?category=us_congress&view=members_119) https://www.opensecrets.org/profiles?category=us_congress&view=members_119_
-
-Why this was chosen Q
 
 ## Step two: Critique of the Visualization
 _ 
@@ -31,33 +27,37 @@ Aesthetics: 6 The simplicity of the table is failry appealing, however, it is no
 Engagement: 5 The table is not that engaging. While it protrays the information from the data, it does not necessary draw the audience to the visual._
 
 ## Step three: Pre Feedback Redesign
-_ <img width="947" height="494" alt="image" src="https://github.com/user-attachments/assets/81aa95b3-2e32-416d-b066-a52132939d56" />
-Tableau was utilized to create this visual: https://public.tableau.com/app/profile/deborah.tachiri/viz/CongressFinancials/Sheet1?publish=yes._
+_<img width="947" height="494" alt="image" src="https://github.com/user-attachments/assets/81aa95b3-2e32-416d-b066-a52132939d56" />
+Tableau was utilized to create this visual: https://public.tableau.com/app/profile/deborah.tachiri/viz/CongressFinancials/Sheet1?publish=yes.
+
+The goal of the initial redesign was to consider how I can visually improve the table. A bar plot seemed like a logical approach, but trying to include as much information as possible in the redesign resulted in similar problems to the original. The new graph was still not actionable and was not as clear. The feedback from course mates provided instrumental direction on how to make the graph actionable._
+
 ## Step four: Testing the solution through a group Interview
 
- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-- Focus on their focus areas Q
-_Conversations requiring feedback about my redesign were important in providing guidance for the direction of the design. A question of focus was how can this visual be improved to make the message efficient and engaging. Limiting of data or focusing on specific data points for emphasis was reccommended. A clear message title was recommended so readers for understandability. A focus on top ten highest or lowest spenders was also recommended for the sake of actionability. The plan is to focus on highest spending members, create a message title, utilize a bar plot._
+_Conversations requiring feedback about my redesign were important in providing guidance for the direction of the design. These conversations were had with students with interest in spend of different income levels, price of protein in America, as well as counts of human death by animals. Hearing feedback from people with different interests was helpful. A question of focus was how can this visual be improved to make the message efficient and engaging. Limiting of data or focusing on specific data points for emphasis was recommended. A clear message title was recommended so readers for understandability because there was confusion about who the audience was, as well as what the topic of the visual was. A focus on top ten highest or lowest spenders was also recommended for the sake of actionability. The plan is to focus on highest spending members, and create a clear title._
 
 ## Step five: build the solution
-Q any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
-_
 
-Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall._
+Top Democratic Campaign Funds Use [20 Million and More]
+<img width="1293" height="341" alt="image" src="https://github.com/user-attachments/assets/a50435cc-3b1c-466f-86e4-cada484c9a3e" />
+Source: https://public.tableau.com/app/profile/deborah.tachiri/viz/DemocratsCampaignFundsUse/DemocratRaisedandSpend?publish=yes 
+
+Top Republican Campaign Funds Use
+<img width="1290" height="287" alt="image" src="https://github.com/user-attachments/assets/41413c66-e645-4082-b1ea-edcbf42e7264" />
+Source: https://public.tableau.com/app/profile/deborah.tachiri/viz/RepublicanCampaignFundsUse/RepublicanRaisedandSpend?publish=yes
+
+Democratic Left of Raised After Spent
+<img width="1278" height="308" alt="image" src="https://github.com/user-attachments/assets/146fa078-d766-4ec7-b2d7-dda75de837ac" />
+Source: https://public.tableau.com/app/profile/deborah.tachiri/viz/DemocratLeftAfterRaised/DemocratLeftafterSpent?publish=yes
+
+Republican Left of Raised After Spent
+<img width="1291" height="271" alt="image" src="https://github.com/user-attachments/assets/27599b57-58a9-4e13-aefb-69d6eb4c92ee" />
+Source: https://public.tableau.com/app/profile/deborah.tachiri/viz/RepublicanLeftAfterRaised/RepublicanLeftafterSpent?publish=yes._
+
+_The focus of this redesign was to appeal to provide actionable information, versus simply descriptive. These visualizations allow the top raisers and spenders in Congress to compare themselves to their counterparts and identify areas of financial efficiency improvement. The public can utilize these visualizations to understand how much of the money raised for campaigns are spent and raise important questions about where and how the remaining money is spent.  The comparison between democrats and republicans is to provide a sense of familiarity for readers. Overall this project was focused on taking confusing and unactionable data and make it actionable. _
 
 ## References
 _https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf 
 https://makeovermonday.vercel.app/dataset/2022w44
 https://www.opensecrets.org/profiles?category=us_congress&view=members_119_
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
