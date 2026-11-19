@@ -34,7 +34,7 @@ The final project will be about the elderly population. A demographic and geogra
 
 Links to be added. 
 
-[Part I](final-project-part-one)
+[Part I] (final-project-part-one.md)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
