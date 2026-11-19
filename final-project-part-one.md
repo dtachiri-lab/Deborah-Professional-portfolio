@@ -3,16 +3,21 @@
 # Outline
 With a focus on 2024, this project focuses on identifying high need counties in New York specific to health conditions and nutrition. The goal is to provide New York legislators with actionable information on which counties require high financial resources. This is a resource legislators can utilize to advocate for bills and more funding of mobile health clinics or meal delivery organizations in high need counties.  
 
-Effect of Conditions on Health and Finances
+Effect of Conditions on Health and Finances -- Problem Definition
 > This is the reality of seniors ages 50 and older living in New York. The goal is to highlight the negative effects of cardiac, obesity, and injury conditions on senior health. These conditions effect expected life length, quality of life, and costs this state tax payer money that could be spent elsewhere. The audience is New York legislators so they understand which counties have higher counts of each condition and are higher need.
+> The problem will first be defined. Brief statistics of large bolded numbers will be provided to introduce and emphasize the effect of cardiac, obesity, and injury conditions on senior health. This is an introduction and discussion of why this topic is important. Because this focus is on New York and their legislators, death rates, health effects, and financial costs of these diagnosis' will be provided.
 
-Effect by Race
-> The goal is also to understand differences between White and Black New Yorkers in order to identify if different races have different needs. This allows legislators to specifically tailor condition and population specific financial and health resources where they are needed most. 
-
-County Analysis of Obesity/Cardiac Health and Meals Delivered
+Effect by Race -- Population Need Identification 
+> The goal is also to understand differences between White and Black New Yorkers in order to identify if different races have different needs. This allows legislators to specifically tailor condition and population specific financial and health resources where they are needed most.
+> A contrast and comparison barplot between White and Black New Yorkers and their counts of these different conditions will be provided to understand if there is a race population that requires greater focus.
+> 
+County Analysis of Obesity/Cardiac Health and Meals Delivered -- County Specific Need Identification
 > By understanding the correlation of obesity and cardiac counts to meals delivered per county, we can understand if higher delivered meals in a county are associated with less conditions. This, as well as population data, can highlight which counties are high need for conditions and meals delivery. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+>
+> Second, 
+>
+> Lastly, two maps will be created. One will tell describe the population in each county, number of hospitals, and hospital factored count of conditions. The second will utilize joined data of a condition specific data source and meal delivery data source to understand the correlation or overlap of obesity and cardiac counts to meals delivered per county. 
 
 
 
@@ -33,16 +38,11 @@ The draft focuses on diagnosis count of African Americans because this populatio
 
 # Method and medium
 
-> First, a brief description and statistics will be provided to emphasize the effect of cardiac, obesity, and injury conditions on senior health. This is an introduction and discussion of why this topic is important. Because this focus is on New York and their legislators, death rates, health effects, and financial costs of these diagnosis' will be provided.
->
-> Second, a contrast and comparison between White and Black New Yorkers and their counts of these different conditions will be provided to understand if there is a race population that requires greater focus.
->
-> Lastly, two maps will be created. One will tell describe the population in each county, number of hospitals, and hospital factored count of conditions. The second will utilize joined data of a condition specific data source and meal delivery data source to understand the correlation or overlap of obesity and cardiac counts to meals delivered per county. 
+> I will utilize Tableau to create the bar plot, maps, and table. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.  
 
 ## References
 _[Meals Delivered Data Source](https://catalog.data.gov/dataset/meals-served-by-the-office-for-the-aging-beginning-1974?from_hint=eyJxIjoic2VuaW9yIGhlYWx0aCIsInNvcnQiOiJyZWxldmFuY2UifQ%3D%3D)
 [County Conditions Data](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/sf4k-39ay/about_data)._
 
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+ this assignment here._
