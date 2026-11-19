@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | 
 
-# Outline
+# Outline 
 With a focus on 2024, this project focuses on identifying high need counties in New York specific to health conditions and nutrition. The goal is to provide New York legislators with actionable information on which counties require high financial resources. This is a resource legislators can utilize to advocate for bills and more funding of mobile health clinics or meal delivery organizations in high need counties.  
 
 Effect of Conditions on Health and Finances -- Problem Definition
