@@ -35,9 +35,9 @@ These are two maps that identify population of 50+ seniors in each county, rangi
 
 Data Sources
 > The data source is from Health.Data.NY.Gov. This contains admission data for health service areas, counties, and facilities for 2024. For seniors 50 and older, the information that will be focused on are the gender, race, ethnicity, length of stay, type of admission, patient disposition[type of daily care they have], and diagnosis. [Data Source](https://catalog.data.gov/dataset/meals-served-by-the-office-for-the-aging-beginning-1974?from_hint=eyJxIjoic2VuaW9yIGhlYWx0aCIsInNvcnQiOiJyZWxldmFuY2UifQ%3D%3D)
->
+
 > For emphasis on need, mental health conditions will be focused. Because county data is available, the county level rates will be analyzed to emphasize areas of high need.
->
+
 Data Source b
 > A theory is that living status and delivered meals are correlated. The data source detailing the meals delivered per county will be utilized for a better understanding of counties' meal deliveries.
 > [Data Source](https://catalog.data.gov/dataset/meals-served-by-the-office-for-the-aging-beginning-1974?from_hint=eyJxIjoic2VuaW9yIGhlYWx0aCIsInNvcnQiOiJyZWxldmFuY2UifQ%3D%3D)
@@ -52,9 +52,12 @@ Data Source c
 
 
 ## References and AI Recognition
-> _With detailed prompts OpenGen.AI was utilized to create sketches. For population and Living Status, the following prompt was used [imputing a template of New York State]: "@Image1   Recreate this into two maps, both blue ranging from low population or living alone percent to to highest population or highest living alone percent respectively [lightest blue to darkest blue]. Create a pseudo map with pseudo data that identifies the population rate of seniors ages 50+ in each county [percent of seniors 50+….  Then create a map that identifies percent in each county of seniors 50+ living alone]……."For the median income visual, the following prompt was used: "Now create similar map but looking at median income of each county for 50+ in New York"_ 
+> _With detailed prompts OpenGen.AI was utilized to create sketches. For population and Living Status, the following prompt was used [imputing a template of New York State]: "@Image1   Recreate this into two maps, both blue ranging from low population or living alone percent to to highest population or highest living alone percent respectively [lightest blue to darkest blue]. Create a pseudo map with pseudo data that identifies the population rate of seniors ages 50+ in each county [percent of seniors 50+….  Then create a map that identifies percent in each county of seniors 50+ living alone]……."For the median income visual, the following prompt was used: "Now create similar map but looking at median income of each county for 50+ in New York"_
+
 > _[Population Data Source](https://aging.ny.gov/2025-nysofa-data-books)_
+
 > _[Meals Delivered Data Source](https://catalog.data.gov/dataset/meals-served-by-the-office-for-the-aging-beginning-1974?from_hint=eyJxIjoic2VuaW9yIGhlYWx0aCIsInNvcnQiOiJyZWxldmFuY2UifQ%3D%3D)_
+
 > _[County Conditions Data](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS
 
 >
