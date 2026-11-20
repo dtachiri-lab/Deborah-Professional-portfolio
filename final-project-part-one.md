@@ -6,7 +6,7 @@ With a focus on 2024, this project focuses on identifying high need counties in 
 Effect of Isolation on Health and Finances -- Problem Definition
 > This is the reality of seniors ages 50 and older living in New York. These conditions effect expected life length, quality of life, and costs this state tax payer money that could be spent elsewhere. The audience is New York legislators so they understand which counties have higher counts of each condition and are higher need.
 
-> The problem will first be defined for an audience of New York legislators. Brief statistics of large, bolded numbers will be provided to introduce and emphasize the effect of cardiac, obesity, and injury conditions on senior health. This is an introduction and discussion of why this topic is important. Because this focus is on New York and their legislators, New York seniors' death rates, health effects, and financial costs of isolation, mental health, and lower income will be provided. The data identifies the need, while the research tells which interventions should be utilized. 
+> The problem will first be defined for an audience of New York legislators. Brief statistics of large, bolded numbers will be provided to introduce and emphasize the effect of living status and isolation on senior health, specifically mental health rates. This is an introduction and discussion of why this topic is important. Because this focus is on New York and their legislators, New York seniors' death rates, health effects, and financial costs of isolation, mental health, and lower income will be provided. The data identifies the need, while the research tells which interventions should be utilized. 
 
 County Analysis of Lower Median Income and Highest Population of seniors 50+ in each county out of total population: Identifying High Need Counties
 > This will identify which counties have the highest concentration of the population we want to support. Counties with higher need will be those with a higher percent of elderly population compared to the average.  For median income, counties with higher need those with lower-than-average median
@@ -52,7 +52,10 @@ Data Source c
 
 
 ## References and AI Recognition
-_With detailed prompts OpenGen.AI was utilized to create sketches. For population and Living Status, the following prompt was used [imputing a template of New York State]: "@Image1   Recreate this into two maps, both blue ranging from low population or living alone percent to to highest population or highest living alone percent respectively [lightest blue to darkest blue]. Create a pseudo map with pseudo data that identifies the population rate of seniors ages 50+ in each county [percent of seniors 50+….  Then create a map that identifies percent in each county of seniors 50+ living alone]……."For the median income visual, the following prompt was used: "Now create similar map but looking at median income of each county for 50+ in New York"_ 
-_[Population Data Source](https://aging.ny.gov/2025-nysofa-data-books)_
-_[Meals Delivered Data Source](https://catalog.data.gov/dataset/meals-served-by-the-office-for-the-aging-beginning-1974?from_hint=eyJxIjoic2VuaW9yIGhlYWx0aCIsInNvcnQiOiJyZWxldmFuY2UifQ%3D%3D)_
-_[County Conditions Data](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/sf4k-39ay/about_data).__
+> _With detailed prompts OpenGen.AI was utilized to create sketches. For population and Living Status, the following prompt was used [imputing a template of New York State]: "@Image1   Recreate this into two maps, both blue ranging from low population or living alone percent to to highest population or highest living alone percent respectively [lightest blue to darkest blue]. Create a pseudo map with pseudo data that identifies the population rate of seniors ages 50+ in each county [percent of seniors 50+….  Then create a map that identifies percent in each county of seniors 50+ living alone]……."For the median income visual, the following prompt was used: "Now create similar map but looking at median income of each county for 50+ in New York"_ 
+> _[Population Data Source](https://aging.ny.gov/2025-nysofa-data-books)_
+> _[Meals Delivered Data Source](https://catalog.data.gov/dataset/meals-served-by-the-office-for-the-aging-beginning-1974?from_hint=eyJxIjoic2VuaW9yIGhlYWx0aCIsInNvcnQiOiJyZWxldmFuY2UifQ%3D%3D)_
+> _[County Conditions Data](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS
+
+>
+>-De-Identified/sf4k-39ay/about_data).__
