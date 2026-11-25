@@ -38,7 +38,14 @@ Interviews Three to Five, Future Professionals [Conducted at Once]
 The main critiques were to identify how much the recommended resource allocation would cost each county and New York state as a whole. In this regard, the cost effectiveness of these recommendations would help legislators prefer allocating resources to these above other policies. Another critique was to include and overlap other indicators to establish the need of counties. An indicator that was recommended was HDI or human development indicators, such as spend on healthcare.
 
 # Identified changes for Part III
-> I plan to somehow overlap indicators so counties that are high need on multiple indicators can be prioritized. I also plan on attempting to identify data for other indicators that can be utilized to establish need. I also plan to conduct more research on the cost of social isolation and of policies to combat social isolation. I also plan to clearly identify the needs and recommended resources, as well as identifying what kind of future research should be conducted to make this information actionable for legislators. Future research can be on county specific resources already available, as well as county specific budget constraints. Overall, I will follow recommended structure of anecdotal, overlapped indicators, specific actionable recommendations. 
+> I plan to somehow overlap indicators so counties that are high need on multiple indicators can be prioritized.
+>
+> I also plan on attempting to identify data for other indicators that can be utilized to establish need. I also plan to conduct more research on the cost of social isolation and of policies to combat social isolation.
+>
+> I also plan to clearly identify the needs and recommended resources, as well as identifying what kind of future research should be conducted to make this information actionable for legislators.
+>
+> Future research can be on county specific resources already available, as well as county specific budget constraints. Overall, I will follow recommended structure of anecdotal, overlapped indicators, specific actionable recommendations.
+> 
 > Because county specific recommendations are not possible with the time constraint, need specific recommendations would allow legislators and stakeholders to identify recommendations that would best address their county specific need. 
 
 
