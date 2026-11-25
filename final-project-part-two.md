@@ -6,15 +6,20 @@
 ><img width="1284" height="525" alt="image" src="https://github.com/user-attachments/assets/3b1f9daf-18e0-4b7e-81c8-a6f7d31d1f1e" />
 > [Tableau Link](https://public.tableau.com:9443/views/PopulationofSeniors65PerNewYorkCounty/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 >
+> [Data Source](https://aging.ny.gov/2025-nysofa-data-books)
 ## Senior Living Status Map [Seniors Not Living Alone as Indicator of Lower Social Isolation]
 > Counties with a lower percent of seniors living with others lets legislators know these seniors have less social connection at their houses. These are counties which would require more social programs for seniors, such as meals on wheels of communal dinners. This would be an indicator of higher need counties. 
 ><img width="1292" height="534" alt="image" src="https://github.com/user-attachments/assets/d7a38808-1f2a-4c22-ac42-007bf65c9392" />
 > [Tableau Link](https://public.tableau.com:9443/views/PercentofSeniors65NotLivingAlonePerNewYorkCountyLowerPercentisBetter/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+>
+> [Data Source](https://aging.ny.gov/2025-nysofa-data-books)
 
 ## Median Income Map
 > Counties with lower median income would indicate that these seniors may have fewer financial resources to finance social activities. This would inform legislators of counties where financial incentives, subsidies, or vouchers would be utilized. This would be a demographic indicator of higher need counties.  
 > <img width="1288" height="519" alt="image" src="https://github.com/user-attachments/assets/d115a861-7419-4839-aff6-52cc51ee81b7" />
 > [Tableau Link](https://public.tableau.com:9443/views/MedianIncomeforSeniors65PerNewYorkCountyLowerPercentisHigherNeed/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+>
+> [Data Source](https://aging.ny.gov/2025-nysofa-data-books)
 
 # User research 
 
